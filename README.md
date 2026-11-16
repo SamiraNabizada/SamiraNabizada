@@ -9,7 +9,7 @@
 <div align="center">
 
 ### Hello, I'm Samira 👋
-Graphic Designer & Front-End Developer from Afghanistan 🇦🇫
+Graphic Designer & Front-End Developer from Afghanistan.
 
 Creating beautiful designs and building modern web experiences.
 
