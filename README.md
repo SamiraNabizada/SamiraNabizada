@@ -49,44 +49,6 @@ Always learning, creating, and improving my skills.
 
 <br/>
 
-<!-- ================= GITHUB STATS ================= -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=SamiraNabizada&show_icons=true&hide_border=true&bg_color=00000000&title_color=CE4774&icon_color=8F1238&text_color=888888&rank_icon=github"
-  height="180"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraNabizada&layout=compact&hide_border=true&bg_color=00000000&title_color=CE4774&text_color=888888"
-  height="180"
-  alt="Most Used Languages"
-/>
-
-</div>
-
-<br/>
-
-<!-- ================= GITHUB STREAK ================= -->
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=SamiraNabizada&hide_border=true&background=00000000&ring=CE4774&fire=8F1238&currStreakLabel=CE4774&sideLabels=888888&dates=888888"
-  width="70%"
-  alt="GitHub Streak"
-/>
-
-</div>
-
-<br/>
-
 <!-- ================= ACTIVITY GRAPH ================= -->
 
 <h2 align="center">📈 Contribution Activity</h2>
