@@ -1,4 +1,3 @@
-
 <!-- =============== HEADER =============== -->
 
 <p align="center">
@@ -12,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=CE4774&center=true&vCenter=true&width=650&height=45&lines=Graphic+Designer;Front-End+Developer;Computer+Science+Student"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=CE4774&center=true&vCenter=true&width=650&height=45&lines=Graphic+Designer;Front-End+Developer"
     alt="Animated professional title"
   />
 </p>
@@ -27,17 +26,7 @@
   Always learning, creating, and improving my skills.
 </p>
 
-<!-- =============== CODING GIRL =============== -->
 
-<h2 align="center">💻 Coding Time</h2>
-
-<p align="center">
-  <img
-    src="https://media1.tenor.com/m/t8rp6pY-Wl8AAAAd/typing-anime-coding.gif"
-    width="260"
-    alt="Girl coding"
-  />
-</p>
 
 <!-- =============== TECH STACK =============== -->
 
@@ -47,25 +36,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,git,github,vscode&theme=light" />
 </p>
 
-<!-- =============== CURRENT LEARNING =============== -->
 
-<h2 align="center">🌱 Currently Learning</h2>
 
-<p align="center">
-  React.js • TypeScript • Advanced JavaScript • Front-End Development
-</p>
 
-<!-- =============== GITHUB STATISTICS =============== -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=SamiraNabizada&show_icons=true&hide_border=true&bg_color=00000000&title_color=CE4774&icon_color=CE4774&text_color=888888&rank_icon=github"
-    height="180"
-    alt="GitHub Statistics"
-  />
-</p>
 
 <p align="center">
   <img
