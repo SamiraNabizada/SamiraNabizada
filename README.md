@@ -96,7 +96,7 @@ Always learning, creating, and improving my skills.
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/samira-nabizada-b47912368?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
   <img
     src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg"
     width="38"
@@ -105,7 +105,7 @@ Always learning, creating, and improving my skills.
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:samiranabizada2001@gmail.com">
   <img
     src="https://cdn.simpleicons.org/gmail/EA4335"
     width="38"
