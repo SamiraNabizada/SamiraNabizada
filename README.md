@@ -43,10 +43,6 @@ Creating beautiful designs and building modern web experiences.
 <a href="mailto:samiranabizada2001@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail"/></a>
 </div>
 
-<!-- PROFILE VIEWS -->
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SamiraNabizada&label=Profile%20Views&color=8F1238&style=flat" alt="Profile Views"/>
-</div>
 
 <!-- FOOTER -->
 <div align="center">
