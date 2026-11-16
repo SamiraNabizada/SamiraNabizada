@@ -1,121 +1,146 @@
 
-<div align="center">
+<!-- ================= HEADER ================= -->
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090E1A,50:171B35,100:432C78&height=190&section=header&text=SAMIRA%20NABIZADA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Graphic%20Designer%20%7C%20Front-End%20Developer&descSize=17&descAlignY=58&animation=fadeIn" />
-
-<!-- PROGRAMMER GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-
-<h2>👩‍💻 Hello, World! I'm Samira</h2>
-
-<p>
-  <b>Computer Science Student | Front-End Developer</b>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:3D0912,45:58111A,75:8F354C,100:FFC5D3&height=220&section=header&text=Samira%20Nabizada&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=twinkling"
+    width="100%"
+  />
 </p>
 
-<p>
-  Building modern web experiences, exploring new technologies
-  and turning ideas into functional applications.
+<!-- ================= ANIMATED TITLE ================= -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=2800&pause=1000&color=8F354C&center=true&vCenter=true&width=650&height=45&lines=Graphic+Designer;Front-End+Developer;Creative+Mind+%7C+Tech+Enthusiast"
+    alt="My professional titles"
+  />
 </p>
 
-</div>
+<p align="center">
+  <em>Designing with creativity. Developing with passion.</em>
+</p>
 
----
+<p align="center">
+  Computer Science student from Afghanistan, passionate about
+  <br/>
+  creative design, modern interfaces, and web development.
+</p>
 
-## 💻 About Me
+<!-- ================= CODING GIRL ================= -->
 
-```javascript
-const samira = {
-    name: "Samira Nabizada",
-    role: ["Graphic Designer", "Front-End Developer"],
-    education: "Computer Science",
-    location: "Afghanistan",
-    currentlyLearning: [
-        "React.js",
-        "TypeScript",
-        "JavaScript"
-    ],
-    interests: [
-        "Web Development",
-        "Software Engineering",
-        "Problem Solving"
-    ],
-    goal: "Become a skilled Software Engineer"
-};
-```
+<h2 align="center">✦ A Little About My World</h2>
 
----
+<p align="center">
+  <img
+    src="https://media1.tenor.com/m/t8rp6pY-Wl8AAAAd/typing-anime-coding.gif"
+    width="245"
+    alt="Girl coding"
+  />
+</p>
 
-## ⚡ Tech Stack
+<!-- ================= TECHNOLOGIES ================= -->
 
-<div align="center">
+<h2 align="center">✦ Technologies & Skills</h2>
 
-### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,git,github,vscode&theme=light" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<!-- ================= LEARNING ================= -->
 
-### Frameworks & Libraries
+<h2 align="center">✦ Currently Exploring</h2>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+<p align="center">
+  React.js &nbsp; • &nbsp; TypeScript &nbsp; • &nbsp;
+  JavaScript &nbsp; • &nbsp; Front-End Development
+</p>
 
-### Tools & Technologies
+<!-- ================= GITHUB STATS ================= -->
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+<h2 align="center">✦ GitHub Overview</h2>
 
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SamiraNabizada&show_icons=true&hide_border=true&bg_color=FFF5F6&title_color=58111A&icon_color=8F354C&text_color=49343A&rank_icon=github"
+    height="175"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraNabizada&layout=compact&hide_border=true&bg_color=FFF5F6&title_color=58111A&text_color=49343A"
+    height="175"
+    alt="Most Used Languages"
+  />
+</p>
 
----
+<!-- ================= STREAK ================= -->
 
-## 📊 GitHub Statistics
+<h2 align="center">✦ Coding Consistency</h2>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SamiraNabizada&hide_border=true&background=FFF5F6&ring=8F354C&fire=58111A&currStreakLabel=58111A&sideLabels=49343A&dates=8F354C"
+    width="70%"
+    alt="GitHub Streak"
+  />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamiraNabizada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<!-- ================= ACTIVITY GRAPH ================= -->
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraNabizada&layout=compact&theme=tokyonight&hide_border=true" />
+<h2 align="center">✦ My Contribution Journey</h2>
 
-<br/>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraNabizada&bg_color=FFF5F6&color=58111A&line=8F354C&point=CE849A&area=true&hide_border=true&custom_title=Coding%20Activity"
+    width="96%"
+    alt="GitHub Activity"
+  />
+</p>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SamiraNabizada&theme=tokyonight&hide_border=true" />
+<!-- ================= SNAKE ================= -->
 
-</div>
+<h2 align="center">✦ Contribution Snake</h2>
 
----
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SamiraNabizada/SamiraNabizada/output/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="Contribution Snake Game"
+  />
+</p>
 
-## 🐍 Contribution Snake
+<!-- ================= CONTACT ================= -->
 
-<div align="center">
+<h2 align="center">✦ Let's Connect</h2>
 
-<img src="https://raw.githubusercontent.com/SamiraNabizada/SamiraNabizada/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://cdn.simpleicons.org/googlechrome/58111A" width="32" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail"/>
+  </a>
+</p>
 
-</div>
+<!-- ================= PROFILE VIEWS ================= -->
 
----
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=SamiraNabizada&label=PROFILE%20VIEWS&color=58111A&style=flat"
+    alt="Profile Views"
+  />
+</p>
 
+<!-- ================= FOOTER ================= -->
 
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/SamiraNabizada">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Code. Create. Innovate.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:432C78,50:171B35,100:090E1A&height=110&section=footer" />
-
-</div>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC5D3,45:8F354C,100:3D0912&height=130&section=footer&animation=twinkling"
+    width="100%"
+  />
+</p>
