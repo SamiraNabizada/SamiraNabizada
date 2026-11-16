@@ -1,140 +1,72 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There,%20I'm%20Samira%20Nabizada&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 
-<div align="center">
+<h3 align="center">Frontend Developer & Code Enthusiast 💻✨</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:260B19,50:7A1730,100:C45A78&text=SAMIRA%20NABIZADA&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=GRAPHIC%20DESIGNER%20%7C%20FRONT-END%20DEVELOPER&descSize=14&descAlignY=65&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=E7A0B3&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Samira+%F0%9F%91%8B;Creative+Mind.+Technical+Thinking.;Building+Modern+Web+Experiences.;Turning+Ideas+Into+Reality." />
-
-<br/>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-7A1730?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-7A1730?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/CONTACT-C45A78?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Building+Clean+%26+Responsive+Websites;Turning+Design+Concepts+into+Code;Passionate+about+Front-End+Development" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## `01` — About Me
-
-```javascript
-const samira = {
-    name: "Samira Nabizada",
-    role: ["Graphic Designer", "Front-End Developer"],
-    education: "Computer Science | Software Engineering",
-    location: "Kabul, Afghanistan",
-
-    interests: [
-        "Web Development",
-        "UI Engineering",
-        "Creative Technology",
-        "Problem Solving"
-    ],
-
-    currentlyLearning: [
-        "React",
-        "TypeScript",
-        "Modern Web Technologies"
-    ],
-
-    goal: "Become a Professional Software Engineer",
-
-    motto: "Design with creativity. Code with purpose."
-};
-```
+<!-- گیف دختر برنامه‌نویس -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/master/git.gif" alt="Coding Girl GIF" width="450px" />
+</p>
 
 ---
 
-## `02` — Tech Stack
+### 💻 Tech Stack & Tools
 
-<div align="center">
-
-**Languages & Front-End**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark"/>
-
-<br/><br/>
-
-**Development Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma&theme=dark"/>
-
-<br/><br/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
-## `03` — GitHub Analytics
+### 📊 GitHub Stats & Metrics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamiraNabizada&show_icons=true&hide_border=true&bg_color=190B13&title_color=E7A0B3&icon_color=C45A78&text_color=FFFFFF&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraNabizada&layout=compact&hide_border=true&bg_color=190B13&title_color=E7A0B3&text_color=FFFFFF"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=SamiraNabizada&theme=dark&hide_border=true&background=190B13&ring=E7A0B3&fire=C45A78&currStreakLabel=E7A0B3"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+</p>
 
 ---
 
-## `04` — Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraNabizada&bg_color=190B13&color=E7A0B3&line=C45A78&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
+<!-- بخش گیم مار مارک یا تعاملی گیت‌هاب -->
+### 🎮 Snake Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="GitHub Snake Game" />
+</p>
 
 ---
 
-## `05` — Snake Game 🐍
+### 📬 Let's Connect
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SamiraNabizada/SamiraNabizada/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
-
----
-
-## `06` — Play a Little Game 🎮
-
-<div align="center">
-
-**While you're here, try the classic Snake Game!**
-
-<a href="https://playsnake.org/" target="_blank">
-<img src="https://img.shields.io/badge/PLAY_SNAKE_GAME-7A1730?style=for-the-badge&logo=gamepad&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samiranabizada2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-## `07` — Developer Mindset
-
-<div align="center">
-
-```text
-   THINK  →  DESIGN  →  DEVELOP  →  IMPROVE
-```
-
-**Creative Vision. Clean Code. Continuous Growth.**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SamiraNabizada&label=PROFILE+VISITORS&color=7A1730&style=for-the-badge"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C45A78,50:7A1730,100:260B19"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</p>
