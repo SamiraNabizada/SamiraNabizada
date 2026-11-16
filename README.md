@@ -1,142 +1,202 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ========================================= -->
+<!--             SAMIRA NABIZADA              -->
+<!-- ========================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58111A&height=180&section=header&text=SAMIRA%20NABIZADA&fontSize=42&fontColor=FFC5D3&animation=fadeIn&fontAlignY=38&desc=CREATIVE%20MIND%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=62&descColor=FFFFFF" />
+<img width="100%" height="220"
+src="https://capsule-render.vercel.app/api?type=soft&color=0:23080D,50:58111A,100:9B3545&height=220&section=header&text=Samira%20Nabizada&fontSize=52&fontColor=FFC5D3&fontAlignY=42&desc=DESIGN%20%E2%80%A2%20CODE%20%E2%80%A2%20CREATE&descSize=15&descColor=FFFFFF&descAlignY=65&animation=fadeIn" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=9B3545&center=true&vCenter=true&width=650&lines=Graphic+Designer;Front-End+Developer;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFC5D3&center=true&vCenter=true&width=650&lines=Graphic+Designer+%F0%9F%8E%A8;Front-End+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9C%A8" />
+
+<br/><br/>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-58111A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
-<!-- ================= ABOUT ME ================= -->
+---
 
-<h2 align="center">✦ ABOUT ME ✦</h2>
+<div align="center">
+
+# 01 / THE PERSON BEHIND THE CODE
+
+*Where creativity meets technology.*
+
+</div>
 
 <table>
 <tr>
-<td width="58%" valign="middle">
+<td width="60%" valign="middle">
 
-### Hello, I'm Samira! 👋
+### Hi, I'm Samira 👋
 
-I'm a **Graphic Designer** and **Front-End Developer** passionate about combining creativity with technology.
+I'm a **Graphic Designer** and **Front-End Developer** from Afghanistan.
 
-- 🎨 Creating meaningful and modern designs.
-- 💻 Building responsive and user-friendly websites.
-- 🌱 Continuously learning React and TypeScript.
-- 🚀 Exploring new technologies and creative ideas.
-- 🌍 Based in Afghanistan.
+I love turning ideas into visual experiences and transforming designs into functional websites.
 
-**My goal:** To transform creative ideas into beautiful digital experiences.
+My journey combines two worlds:
+
+- 🎨 **Design:** Visual identity, branding and creative graphics.
+- 💻 **Development:** Responsive websites and interactive interfaces.
+- 🌱 **Learning:** React, TypeScript and modern web technologies.
+- 🚀 **Vision:** Building useful digital products with creativity and purpose.
 
 </td>
+<td width="40%" align="center" valign="middle">
 
-<td width="42%" align="center" valign="middle">
-
-<img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="320" alt="Girl coding at her laptop" />
+<img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="300" alt="Girl coding at laptop" />
 
 </td>
 </tr>
 </table>
 
-<!-- ================= TECH STACK ================= -->
-
-<h2 align="center">✦ TECHNOLOGIES & TOOLS ✦</h2>
-
-<h3 align="center">Programming & Development</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,git,github,vscode&theme=light" />
-</p>
-
-<h3 align="center">Design Tools</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ps,ai,indesign&theme=light" />
-</p>
-
-<!-- ================= CURRENT FOCUS ================= -->
-
-<h2 align="center">✦ CURRENT FOCUS ✦</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Learning-React-58111A?style=for-the-badge&logo=react&logoColor=FFC5D3" />
-<img src="https://img.shields.io/badge/Exploring-TypeScript-58111A?style=for-the-badge&logo=typescript&logoColor=FFC5D3" />
-<img src="https://img.shields.io/badge/Building-Projects-58111A?style=for-the-badge&logo=github&logoColor=FFC5D3" />
-</p>
-
-<!-- ================= GITHUB STATS ================= -->
-
-<h2 align="center">✦ GITHUB STATISTICS ✦</h2>
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamiraNabizada&show_icons=true&hide_border=true&bg_color=FFF5F6&title_color=58111A&icon_color=9B3545&text_color=333333&rank_icon=github" />
+# 02 / MY TECH UNIVERSE
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraNabizada&layout=compact&hide_border=true&bg_color=FFF5F6&title_color=58111A&text_color=333333" />
+*Tools I use to bring ideas to life.*
+
+</div>
+
+### DEVELOPMENT
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,git,github,vscode&theme=dark" />
+</p>
+
+### CREATIVE DESIGN
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ps,ai,indesign&theme=dark" />
+</p>
+
+---
+
+<div align="center">
+
+# 03 / WHAT I'M EXPLORING
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ⚛️
+
+**React**
+
+<sub>Building reusable UI components</sub>
+
+</td>
+<td width="33%" align="center">
+
+### 🔷
+
+**TypeScript**
+
+<sub>Writing structured code</sub>
+
+</td>
+<td width="33%" align="center">
+
+### ✨
+
+**UI Development**
+
+<sub>Creating better experiences</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 04 / GITHUB ANALYTICS
+
+*Every contribution is a step forward.*
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamiraNabizada&show_icons=true&hide_border=true&bg_color=190A0D&title_color=FFC5D3&icon_color=E58A9B&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraNabizada&layout=compact&hide_border=true&bg_color=190A0D&title_color=FFC5D3&text_color=FFFFFF" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SamiraNabizada&hide_border=true&background=FFF5F6&ring=9B3545&fire=58111A&currStreakLabel=58111A&sideLabels=58111A&currStreakNum=333333&sideNums=333333&dates=777777" />
+<img width="75%" src="https://streak-stats.demolab.com?user=SamiraNabizada&hide_border=true&background=190A0D&ring=E58A9B&fire=FFC5D3&currStreakLabel=FFC5D3&sideLabels=FFC5D3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
 </div>
 
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-<h2 align="center">✦ CONTRIBUTION GRAPH ✦</h2>
+---
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraNabizada&bg_color=fff5f6&color=58111a&line=9b3545&point=58111a&area=true&hide_border=true" />
+# 05 / MY CONTRIBUTION JOURNEY
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraNabizada&bg_color=190A0D&color=FFC5D3&line=9B3545&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
-<!-- ================= SNAKE GAME ================= -->
-
-<h2 align="center">✦ CONTRIBUTION SNAKE ✦</h2>
+---
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/SamiraNabizada/SamiraNabizada/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+# 06 / THE SNAKE GAME
+
+*Watch the snake collect my GitHub contributions!*
+
+<img width="100%" src="https://raw.githubusercontent.com/SamiraNabizada/SamiraNabizada/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
 
-<!-- ================= CONNECT ================= -->
+---
 
-<h2 align="center">✦ LET'S CONNECT ✦</h2>
+<div align="center">
 
-<p align="center">
+# 07 / LET'S BUILD SOMETHING TOGETHER
+
+**Have an idea, project or collaboration in mind?**
+
+I'd love to connect with you.
+
+<br/>
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://cdn.simpleicons.org/googlechrome/58111A" width="42" alt="Portfolio" />
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:YOUR_EMAIL">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email" />
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" />
 </a>
-</p>
+&nbsp;&nbsp;&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://cdn.simpleicons.org/googlechrome/FFC5D3" width="38" />
+</a>
 
-<!-- ================= PROFILE VIEWS ================= -->
+<br/><br/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SamiraNabizada&label=PROFILE%20VIEWS&color=58111A&style=flat-square" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=SamiraNabizada&label=VISITORS&color=58111A&style=for-the-badge" />
 
-<!-- ================= FOOTER ================= -->
+<br/><br/>
 
-<div align="center">
+### DESIGN WITH PURPOSE. CODE WITH PASSION.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58111A&height=120&section=footer&animation=fadeIn" />
+<sub>© Samira Nabizada · 2026</sub>
 
-### ✨ Creativity Meets Technology ✨
-
-**Thanks for visiting my profile!**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58111A,100:23080D&height=110&section=footer" />
 
 </div>
