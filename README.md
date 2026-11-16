@@ -1,142 +1,54 @@
 
-<!-- ================= HEADER ================= -->
-
+<!-- HEADER -->
 <div align="center">
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0718,45:8F1238,100:CE4774&height=210&section=header&text=Samira%20Nabizada&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling"
-/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0718,45:8F1238,100:CE4774&height=160&section=header&text=Samira%20Nabizada&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=twinkling"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=CE4774&center=true&vCenter=true&width=550&height=35&lines=Graphic+Designer;Front-End+Developer" alt="Professional Title"/>
 </div>
 
-<!-- ================= ANIMATED TITLE ================= -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=CE4774&center=true&vCenter=true&width=650&height=45&lines=Graphic+Designer;Front-End+Developer"
-  alt="Animated Professional Title"
-/>
-
-</div>
-
-<!-- ================= INTRODUCTION ================= -->
-
+<!-- INTRO -->
 <div align="center">
 
 ### Hello, I'm Samira 👋
+Graphic Designer & Front-End Developer from Afghanistan 🇦🇫
 
-A passionate Graphic Designer and Front-End Developer from Afghanistan.
-
-I love creating beautiful designs and building modern web experiences.
-
-Always learning, creating, and improving my skills.
+Creating beautiful designs and building modern web experiences.
 
 </div>
 
-<br/>
-
-<!-- ================= TECH STACK ================= -->
-
-<h2 align="center">🛠️ Technologies & Tools</h2>
-
+<!-- TECH STACK -->
+<h3 align="center">🛠️ Technologies & Tools</h3>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,git,github,vscode&theme=light" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,git,github,vscode&theme=light"/>
 </div>
 
-<br/>
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
+<!-- ACTIVITY -->
+<h3 align="center">📈 Contribution Activity</h3>
 <div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraNabizada&bg_color=00000000&color=CE4774&line=8F1238&point=CE4774&area=true&hide_border=true&custom_title=My%20Coding%20Journey"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraNabizada&bg_color=00000000&color=CE4774&line=8F1238&point=CE4774&area=true&hide_border=true&custom_title=Coding%20Journey" alt="GitHub Activity"/>
 </div>
 
-<br/>
-
-<!-- ================= SNAKE GAME ================= -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
+<!-- SNAKE -->
+<h3 align="center">🐍 Contribution Snake</h3>
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/SamiraNabizada/SamiraNabizada/output/github-contribution-grid-snake.svg"
-  width="95%"
-  alt="GitHub Contribution Snake"
-/>
-
+<img width="90%" src="https://raw.githubusercontent.com/SamiraNabizada/SamiraNabizada/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
 
-<br/>
-
-<!-- ================= CONNECT ================= -->
-
-<h2 align="center">🤝 Connect With Me</h2>
-
+<!-- CONTACT -->
+<h3 align="center">🤝 Connect With Me</h3>
 <div align="center">
-
-<a href="YOUR_PORTFOLIO_URL" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/googlechrome/58111A"
-    width="38"
-    alt="Portfolio"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/samira-nabizada-b47912368?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg"
-    width="38"
-    alt="LinkedIn"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:samiranabizada2001@gmail.com">
-  <img
-    src="https://cdn.simpleicons.org/gmail/EA4335"
-    width="38"
-    alt="Gmail"
-  />
-</a>
-
+<a href="YOUR_PORTFOLIO_URL"><img src="https://cdn.simpleicons.org/googlechrome/58111A" width="30" alt="Portfolio"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samira-nabizada-b47912368/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="30" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="mailto:samiranabizada2001@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail"/></a>
 </div>
 
-<br/>
-
-<!-- ================= PROFILE VIEWS ================= -->
-
+<!-- PROFILE VIEWS -->
 <div align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=SamiraNabizada&label=Profile%20Views&color=8F1238&style=flat"
-  alt="Profile Views"
-/>
-
+<img src="https://komarev.com/ghpvc/?username=SamiraNabizada&label=Profile%20Views&color=8F1238&style=flat" alt="Profile Views"/>
 </div>
 
-<br/>
-
-<!-- ================= FOOTER ================= -->
-
+<!-- FOOTER -->
 <div align="center">
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:CE4774,55:8F1238,100:4A0718&height=130&section=footer&animation=twinkling"
-/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CE4774,55:8F1238,100:4A0718&height=75&section=footer"/>
 </div>
